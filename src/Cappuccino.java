@@ -7,7 +7,6 @@ public class Cappuccino
     public Cappuccino()
     {
         description = "A delicious beverage topped with frothed hot milk or cream and often flavored with cinnamon";
-
         cost = 27;
         amount = 10;
     }
